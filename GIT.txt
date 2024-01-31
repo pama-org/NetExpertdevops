@@ -1,0 +1,46 @@
+
+Owner
+https://github.com/pathum10251/AWS-SA003.git
+Member1
+https://github.com/madhu103303
+
+1. create Org-
+https://github.com/pama-org
+
+2. create repo
+https://github.com/pama-org/NetExpertdevops
+
+3. create Team
+https://github.com/orgs/pama-org/teams/javateam
+
+
+IDE (Integrated Development Environment)
+
+eclipse
+my Eclipse
+IntelliJ
+pycharm
+
+
+
+create a new repository on the command line
+
+echo "# AWS-SA003" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+
+
+workig Area			staging Area						Local Area
+
+first.java	-->git add -->	first.java	--> git commit -m "java module done"  first.java
+
+
+push an existing repository from the command line
+
+git branch -M main
+git remote add origin https://github.com/pathum10251/AWS-SA003.git
+git push -u origin main
+
+Token
+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
